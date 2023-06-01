@@ -1,0 +1,15 @@
+.content{
+    position: absolute;
+    top: 50%;
+    display: flex;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    color: #fff;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
+
+button{
+    margin: 10px;
+}
