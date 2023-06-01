@@ -45,7 +45,7 @@ Follow the steps below to install React and React Router DOM for your ReactJS pr
 5. Install React and React Router DOM by running the following command:
 
    ```shell
-   $ npm install react react-dom react-router-dom
+   $ npm install react react-router-dom
    ```
 
    This will install React and React Router DOM as dependencies in your project.
